@@ -1,0 +1,24 @@
+p {
+	/* Content Width & Height*/
+
+	width: 50%;
+	height: 50%;
+
+	/*Border*/
+
+	border: 2px solid blue;
+
+	/*Padding; can use top botton etc.*/
+
+	padding: 10px;
+
+	/*Margin: can use top botton etc.*/
+
+	/*margin: 100px;*/
+
+	/* can use auto to center*/
+	margin: 0 auto 0 auto;
+	margin-top: 50px;
+	margin-bottom: 50px;
+
+}
