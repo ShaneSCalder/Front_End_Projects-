@@ -1,0 +1,37 @@
+/* 
+	border color: #bdc3c7 
+	date color: #3498db
+	h2 color #2c3e50
+	font from google: font-family: 'Open Sans', sans-serif;
+	*/
+
+
+body {
+	border: 20px solid #bdc3c7;
+	padding: 20px; 
+	max-width: 600px;
+	width: 70%;
+	margin: 20px auto;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.indent {
+	border-left: 6px solid #bdc3c7;
+	padding-left: 6px;
+}
+
+.date {
+	color: #3498db;
+	text-transform: uppercase;
+	letter-spacing: 0.2rem;
+}
+
+h2 {
+	color: #2c3e50;
+	font-size: 2.0rem;
+}
+
+hr {
+	border-top: 2px solid #f2f2f2;
+	height: 30px;
+}
