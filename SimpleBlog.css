@@ -26,6 +26,10 @@ body {
 	letter-spacing: 0.2rem;
 }
 
+.post {
+	margin: 20px;
+}
+
 h2 {
 	color: #2c3e50;
 	font-size: 2.0rem;
