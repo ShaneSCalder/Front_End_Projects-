@@ -31,3 +31,12 @@ for(var i = 5; i <= 50; i++){
 		console.log(i);
 	}
 }
+
+//Problem 5
+console.log("Replace Kebab with Snake");
+
+function kebabToSnake(str) {
+	var newStr = str.replace(/-/g , "_");
+	return newStr;
+
+}
